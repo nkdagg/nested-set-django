@@ -55,4 +55,5 @@ def validate_input_data(data):
             return isinstance(conf, type)
         else:
             raise ValueError
+    check_structure(data, structure)
     
