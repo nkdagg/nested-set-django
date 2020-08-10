@@ -8,4 +8,4 @@ python manage.py makemigrations\
 python manage.py migrate\
 python manage.py runserver
 
-...
+POST and GET requests work according to the task specification
