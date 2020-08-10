@@ -1,5 +1,6 @@
 # nested-set-django
 
-Username: admin
+Admin endpoint credentials
 
+Username: admin
 Password: password
