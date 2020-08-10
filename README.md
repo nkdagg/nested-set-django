@@ -2,7 +2,7 @@
 
 Instructions to run:
 
-- Clone repo\
+- Clone repo
 - In root directory run:\
 python manage.py makemigrations\
 python manage.py migrate\
